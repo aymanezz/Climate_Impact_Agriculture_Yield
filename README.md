@@ -76,3 +76,12 @@ We welcome contributions to this project. Please follow these steps to contribut
 3. Make your changes.
 4. Submit a pull request.
 
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Contact
+For any questions or inquiries, please contact:
+
+- **Name:** Ayman Ezz eldin Mahmoud
+- **Email:** e.aymanezz@gmail.com
+- **GitHub:** [aymanezz](https://github.com/aymanezz)
